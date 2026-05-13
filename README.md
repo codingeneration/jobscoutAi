@@ -32,9 +32,7 @@ Scored. Ranked. Linked. Ready to apply.
 ### 1 — Make a copy of the script
 Click below to open your own private copy in Google Apps Script — no downloading, no uploading:
 
-**👉 [Click here to copy the script](https://script.google.com/d/YOUR_SCRIPT_ID_HERE/copy)**
-
-> Replace `YOUR_SCRIPT_ID_HERE` with your published script ID after you set it up.
+**👉 [Click here to copy the script](https://script.google.com/d/1Xxd60rkgXsUNLQgfE7wRyb4AxsAhRpa7MtHqbCMH_qZ46IkbU1b6lljR/copy)**
 
 ### 2 — Create a Google Sheet
 - Go to [sheets.google.com](https://sheets.google.com) → New spreadsheet
@@ -194,6 +192,6 @@ MIT — free to use, modify, and share. Attribution appreciated but not required
 
 ## 👤 Author
 
-Built by [Steve Moynihan](https://stevesitpro.com) — IT consultant and Google Workspace specialist.
+Built by [Steve Moynihan](https://www.linkedin.com/in/stevenmoynihan/) — IT consultant and Google Workspace specialist.
 
-Questions or feedback: open an issue or reach out on [LinkedIn](https://linkedin.com/in/stevemoynihan).
+Questions or feedback: open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/stevenmoynihan/).
